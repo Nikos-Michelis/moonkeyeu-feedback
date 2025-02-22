@@ -14,6 +14,6 @@
     </ul>
     <p dir="auto">Please give examples when reporting bugs!</p>
     <a dir="auto" href="https://github.com/Nikos-Michelis/MoonkeyEu/issues/new">
-        <i class="fa-solid fa-plus fa-sm"></i> NEW ISSUE
+        <i class="fa-solid fa-plus fa-sm" style="color: #74C0FC;"></i> NEW ISSUE
     </a>
 </article>
