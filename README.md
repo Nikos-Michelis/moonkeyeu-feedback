@@ -13,7 +13,27 @@
         <li><a href="https://www.moonkeyeu.com/bookmarks" rel="nofollow">Bookmarks Section</a> - Save and manage your bookmarked launches.</li>
     </ul>
     <p dir="auto">Please give examples when reporting bugs!</p>
-    <a dir="auto" href="https://github.com/Nikos-Michelis/MoonkeyEu/issues/new">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path fill="#ffffff" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 144L48 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l144 0 0 144c0 17.7 14.3 32 32 32s32-14.3 32-32l0-144 144 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-144 0 0-144z"/></svg> NEW ISSUE
+      <a dir="auto" href="https://github.com/Nikos-Michelis/MoonkeyEu/issues/new" style="display: inline-block;
+        box-sizing: border-box;
+        padding: 10px;
+        line-height: 1.2;
+        white-space: nowrap;
+        text-align: center;
+        text-decoration: none;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        background-color: var(--clr-star-300);
+        border: 2px solid var(--clr-dark-cosmos-300);
+        cursor: pointer;
+        transition: all .1s ease;
+        -webkit-user-select: none;
+        user-select: none;
+        font-size: var(--fs-300);
+        font-weight: 400;
+        font-family: inherit;
+        font-variant: none;
+        color: var(--clr-main-300);
+        border-radius: 5px;">
+          + NEW ISSUE
     </a>
 </article>
