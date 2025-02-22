@@ -8,7 +8,7 @@
         <h2 tabindex="-1" class="heading-element" dir="auto">Site Sections</h2>
     </div>
     <ul dir="auto">
-        <li><a href="https://www.moonkeyeu.com/launches" rel="nofollow">Main Site</a> - Browse all space launches, astronauts and more.</li>
+        <li><a href="https://www.moonkeyeu.com/launches" rel="nofollow">Main Site</a> - Explore all space launches, astronauts and more.</li>
         <li><a href="https://www.moonkeyeu.com/vehicles" rel="nofollow">Vehicles Section</a> - Explore boosters, rockets and more.</li>
         <li><a href="https://www.moonkeyeu.com/bookmarks" rel="nofollow">Bookmarks Section</a> - Save and manage your bookmarked launches.</li>
     </ul>
