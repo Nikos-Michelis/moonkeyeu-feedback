@@ -13,7 +13,7 @@
         <li><a href="https://www.moonkeyeu.com/bookmarks" rel="nofollow">Bookmarks Section</a> - Save and manage your bookmarked launches.</li>
     </ul>
     <p dir="auto">Please give examples when reporting bugs!</p>
-    <a dir="auto" href="#">
+    <a dir="auto" href="https://github.com/Nikos-Michelis/MoonkeyEu/issues/new">
         + NEW ISSUE
     </a>
 </article>
