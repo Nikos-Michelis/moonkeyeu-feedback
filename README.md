@@ -13,28 +13,5 @@
         <li><a href="https://www.moonkeyeu.com/bookmarks" rel="nofollow">Bookmarks Section</a> - Save and manage your bookmarked launches.</li>
     </ul>
     <p dir="auto">Please give examples when reporting bugs!</p>
-    <a dir="auto" href="https://github.com/Nikos-Michelis/MoonkeyEu/issues/new" style="display: inline-block;
-    box-sizing: border-box;
-    padding: 10px;
-    line-height: 1.2;
-    white-space: nowrap;
-    text-align: center;
-    text-decoration: none;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    background-color: var(--clr-star-300);
-    border: 2px solid var(--clr-dark-cosmos-300);
-    cursor: pointer;
-    transition: all .1s ease;
-    -webkit-user-select: none;
-    user-select: none;
-    font-size: var(--fs-300);
-    font-weight: 400;
-    font-family: inherit;
-    font-variant: none;
-    color: var(--clr-main-300);
-    border-radius: 5px;">
-      + NEW ISSUE
-</a>
-
+    <a dir="auto" href="https://github.com/Nikos-Michelis/MoonkeyEu/issues/new"> + NEW ISSUE </a>
 </article>
