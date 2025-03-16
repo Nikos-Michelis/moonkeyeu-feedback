@@ -2,8 +2,8 @@
     <p dir="auto">
         <a href="https://www.moonkeyeu.com" rel="nofollow"><img src="https://github.com/Nikos-Michelis/MoonkeyEu/blob/ff904c32670283a4bfecfcec82c42cc775388436/img/logo.png" width="128" height="128" alt="MoonkeyEu" style="max-width: 100%;"></a>
     </p>
-    <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">MoonkeyEu Feedback</h1></div>
-    <p dir="auto">We strive to make MoonkeyEu the best space launch tracker. To make that happen we need your help to find and catch bugs that we might miss! Tell us about bugs or features you'd like to have implemented or changed!</p>
+    <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">MoonkeyEU Feedback</h1></div>
+    <p dir="auto">We strive to make MoonkeyEU the best space launch tracker. To make that happen we need your help to find and catch bugs that we might miss! Tell us about bugs or features you'd like to have implemented or changed!</p>
     <div class="markdown-heading" dir="auto">
         <h2 tabindex="-1" class="heading-element" dir="auto">Site Sections</h2>
     </div>
